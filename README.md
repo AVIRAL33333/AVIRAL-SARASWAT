@@ -1,5 +1,8 @@
 # AVIRAL-SARASWAT
+
 YO!
+
+<img width="860" height="484" alt="Image" src="https://github.com/user-attachments/assets/1399381f-624c-44ac-b288-82dde8013c98" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Q9uUUR8f7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/av1_x3n0n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/A._.X3N0N_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisaraswattt@gmail.com) 
@@ -11,4 +14,3 @@ YO!
 ![](https://streak-stats.demolab.com/?user=AVIRAL33333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AVIRAL33333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
